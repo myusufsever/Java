@@ -19,6 +19,8 @@ public class a05_soru {
          if(giris>1999.09){
              System.out.println("EYT 'DEM FAYDALANAMIYORSUNUZ");
 
+
+
          }
 
          else {
